@@ -19,7 +19,7 @@ Estas son algunas de las tecnologías y herramientas con las que trabajo:
 
 Puedes contactarme a través de:
 
-- **Email**: jpcatucuago@ejemplo.com
+- **Email**: jpcatucuago@espe.edu.ec
 
 ¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contribuir si encuentras algo interesante.
 
